@@ -8,7 +8,7 @@ To clone the repo:
   git clone 
   
   ```
-  git@github.com:jfisher396/readme-generator.git
+  git clone https://github.com/fidojahfal/simpleApi-HelloWorld.git
   ```
   
 ---
